@@ -56,7 +56,7 @@ code
 └── README.md            # This README file
 
 **Future Improvements**
-Add the ability to edit existing expenses.
-Add support for recurring expenses.
-Implement more advanced data analysis features.
-Improve the user interface (e.g., with a graphical user interface using Tkinter or PyQt).
+- Add the ability to edit existing expenses.
+- Add support for recurring expenses.
+- Implement more advanced data analysis features.
+- Improve the user interface (e.g., with a graphical user interface using Tkinter or PyQt).
