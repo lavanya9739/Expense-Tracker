@@ -36,17 +36,17 @@ Menu Options:
 Example Usage
 
 **Adding an Expense**
-Enter date (YYYY-MM-DD): 2024-10-12
-Enter description: Food
-Enter amount: $45.00
-Expense added successfully!
-Viewing a Bar Chart of Expenses by Category
+- Enter date (YYYY-MM-DD): 2024-10-12
+- Enter description: Food
+- Enter amount: $45.00
+- Expense added successfully!
+- Viewing a Bar Chart of Expenses by Category
 
 **Expenses by Category:**
-Food: $150.00
-Transport: $75.00
-Entertainment: $30.00
-This will display a bar chart with categories on the x-axis and total expenses on the y-axis.
+- Food: $150.00
+- Transport: $75.00
+- Entertainment: $30.00
+- This will display a bar chart with categories on the x-axis and total expenses on the y-axis.
 
 **File Structure**
 bash
